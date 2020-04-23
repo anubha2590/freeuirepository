@@ -1,0 +1,2 @@
+[0420/191107.672:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0420/191107.672:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
